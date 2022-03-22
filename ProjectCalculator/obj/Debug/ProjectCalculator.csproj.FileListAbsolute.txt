@@ -1,0 +1,20 @@
+G:\AIUB\COURSES\C-Sharp\Calculator\ProjectCalculator\bin\Debug\ProjectCalculator.exe.config
+G:\AIUB\COURSES\C-Sharp\Calculator\ProjectCalculator\bin\Debug\ProjectCalculator.exe
+G:\AIUB\COURSES\C-Sharp\Calculator\ProjectCalculator\bin\Debug\ProjectCalculator.pdb
+G:\AIUB\COURSES\C-Sharp\Calculator\ProjectCalculator\obj\Debug\ProjectCalculator.csprojAssemblyReference.cache
+G:\AIUB\COURSES\C-Sharp\Calculator\ProjectCalculator\obj\Debug\ProjectCalculator.mainForm.resources
+G:\AIUB\COURSES\C-Sharp\Calculator\ProjectCalculator\obj\Debug\ProjectCalculator.Properties.Resources.resources
+G:\AIUB\COURSES\C-Sharp\Calculator\ProjectCalculator\obj\Debug\ProjectCalculator.csproj.GenerateResource.cache
+G:\AIUB\COURSES\C-Sharp\Calculator\ProjectCalculator\obj\Debug\ProjectCalculator.csproj.CoreCompileInputs.cache
+G:\AIUB\COURSES\C-Sharp\Calculator\ProjectCalculator\obj\Debug\ProjectCalculator.exe
+G:\AIUB\COURSES\C-Sharp\Calculator\ProjectCalculator\obj\Debug\ProjectCalculator.pdb
+G:\AIUB\COURSES\zRecent Semester\C-Sharp\Calculator\ProjectCalculator\bin\Debug\ProjectCalculator.exe.config
+G:\AIUB\COURSES\zRecent Semester\C-Sharp\Calculator\ProjectCalculator\bin\Debug\ProjectCalculator.exe
+G:\AIUB\COURSES\zRecent Semester\C-Sharp\Calculator\ProjectCalculator\bin\Debug\ProjectCalculator.pdb
+G:\AIUB\COURSES\zRecent Semester\C-Sharp\Calculator\ProjectCalculator\obj\Debug\ProjectCalculator.csproj.AssemblyReference.cache
+G:\AIUB\COURSES\zRecent Semester\C-Sharp\Calculator\ProjectCalculator\obj\Debug\ProjectCalculator.mainForm.resources
+G:\AIUB\COURSES\zRecent Semester\C-Sharp\Calculator\ProjectCalculator\obj\Debug\ProjectCalculator.Properties.Resources.resources
+G:\AIUB\COURSES\zRecent Semester\C-Sharp\Calculator\ProjectCalculator\obj\Debug\ProjectCalculator.csproj.GenerateResource.cache
+G:\AIUB\COURSES\zRecent Semester\C-Sharp\Calculator\ProjectCalculator\obj\Debug\ProjectCalculator.csproj.CoreCompileInputs.cache
+G:\AIUB\COURSES\zRecent Semester\C-Sharp\Calculator\ProjectCalculator\obj\Debug\ProjectCalculator.exe
+G:\AIUB\COURSES\zRecent Semester\C-Sharp\Calculator\ProjectCalculator\obj\Debug\ProjectCalculator.pdb
